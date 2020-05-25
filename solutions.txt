@@ -10,9 +10,9 @@ email:ayush.pandey_cs17@gla.ac.in
 
 We have solved the usecases by making a FullStack based website.
 UseCase solved by us are:
-1)USECASE-1
+1)USE CASE-1
 
-2)USECASE-4
+2)USE CASE-4
 
 
 Use Case 1 -
